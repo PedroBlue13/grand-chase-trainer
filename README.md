@@ -1,4 +1,4 @@
-# grand-chase-trainer
+
 
 
 # Grand Chase Trainer - Automação para Evolução no Jogo
